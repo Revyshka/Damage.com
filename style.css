@@ -19,7 +19,7 @@ body {
 
 }
 .header {
-    background-image: url(fon.png);
+    background-image: url(fon2.png);
     height: 100vh;
     background-repeat: no-repeat;
     background-size: cover;
@@ -115,7 +115,7 @@ body {
     margin-left: 20px;
 }
 .header-subtitle {
-    color: #101c1e;
+    color: #b9ecf3;
     font-size: 30px;
     margin-top: 40px;
 
@@ -125,7 +125,7 @@ body {
     font-size: 18px;
     margin-top: 40px;
 }
-.header-coment::after {
+/* .header-coment::after {
     position: absolute;
     content: '';
     height: 2px;
@@ -142,7 +142,7 @@ body {
     background-color: aqua;
     top: 250px;
     left: 561px;
-}
+} */
 .card {
     box-shadow: 10px 10px 40px 20px #0000001a;
     width: 300px;
