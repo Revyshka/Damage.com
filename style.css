@@ -19,7 +19,7 @@ body {
 
 }
 .header {
-    background-image: url(logotip.png);
+    background-image: url(fon2.png);
     height: 100vh;
     background-repeat: no-repeat;
     background-size: cover;
@@ -186,7 +186,7 @@ body {
     z-index: 1001;
 }
 .section-prise{
-    background-image: url(bg.png);
+    background-image: url(logotip.png);
     height: 100vh;
     background-repeat: no-repeat;
     background-size: cover;
